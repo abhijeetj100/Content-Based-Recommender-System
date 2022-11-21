@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Content Based News Recommender System</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <link href="https://chromium.googlesource.com/external/github.com/twbs/bootstrap/+/v3.3.4/docs/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h3 class="text-muted">Content Based News Recommender System</h3>
+        </div>
+        <div class="well">
+            <form action="/recommend" method="post">
+
+        <div class="form-group">
+          <label for="academic_info">Enter your Degree/University:</label>
+          <input type="text" class="form-control" id="academic_info" name="academic_info">
+        </div>
+        <div class="form-group">
+          <label for="job_info">Enter your Organization/Experience:</label>
+          <input type="text" class="form-control" id="job_info" name="job_info">
+        </div>
+        <div class="form-group">
+          <label for="skill_set">Enter your skills:</label>
+          <input type="text" class="form-control" id="skill_set" name="skill_set">
+        </div>
+                <div>
+                    <input class="btn btn-lg btn-success" type="submit" name="form" value="Submit" />
+                </div>
+        </form>
+        </div>
+
+        <footer class="footer">
+            <p>© Abhijeet Jain 2021MT12497 NLP Content Based Recommender System</p>
+        </footer>
+
+    </div>
+</body>
+
+</html>  
