@@ -1,4 +1,7 @@
 # Content Bases Recommender System
+
+Git Repo: https://github.com/abhijeetj100/Content-Based-Recommender-System
+
 Content Bases Recommender System for News Recommendation Based on Professional Profile of a user
 
 1. The Content Bases Recommender System is built using FastAPI and newsapi.org's API. 
