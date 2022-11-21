@@ -24,7 +24,7 @@ Content Bases Recommender System for News Recommendation Based on Professional P
 	
 
 Screenshots:
-1. ![img.png](img.png)
-2. ![img_1.png](img_1.png)
-3. ![img_2.png](img_2.png)
+1. ![Form for user input](https://raw.githubusercontent.com/abhijeetj100/Content-Based-Recommender-System/master/img.png)
+2. ![Filled form](https://raw.githubusercontent.com/abhijeetj100/Content-Based-Recommender-System/master/img_1.png)
+3. ![Results](https://raw.githubusercontent.com/abhijeetj100/Content-Based-Recommender-System/master/img_2.png)
 
